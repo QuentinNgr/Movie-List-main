@@ -52,6 +52,7 @@ Bugs:
 Des problèmes d'affichage sont possibles sur de petits écrans à la résolution plus faible, ainsi que sur certaines machines utilisant Linux.
 La traduction automatique a des lacunes, textblob n'étant pas infaillible surtout sur des expression portant à confusion.
 L'utilisateur doit créer les fichiers "CleanNoH.txt" et "DATALOCAL.txt", même vides.
+L'utilisateur doit installer lui même les packages nécessaires.
 
 Fonctionalités à améliorer :
 -Filtre : par genre, acteur, réalisateur
